@@ -33,7 +33,7 @@
 26330	Price	positive
 26330	Whole	positive
 26330	Service	positive
-12341	Food	both
+12341	Food	negative
 12341	Interior	absence
 12341	Price	absence
 12341	Whole	negative
@@ -102,9 +102,9 @@
 16761	Interior	positive
 16761	Price	absence
 16761	Whole	positive
-16761	Service	both
+16761	Service	negative
 16151	Food	both
-16151	Interior	both
+16151	Interior	positive
 16151	Price	positive
 16151	Whole	positive
 16151	Service	positive
