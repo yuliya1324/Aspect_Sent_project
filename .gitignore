@@ -1,3 +1,5 @@
 results/
 wandb/
 .ipynb_checkpoints/
+.vscode/
+models/
