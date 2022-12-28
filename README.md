@@ -4,6 +4,8 @@
 
 ### Запуск скрипта на инференс
 
+Файл для инференса находится в [`inference.py`](https://github.com/yuliya1324/Aspect_Sent_project/blob/main/inference.py)
+
 ```
 python inference.py --first_task --second_task --aspect_filename data/dev_pred_aspects.txt --sentiment_filename data/dev_pred_cats.txt --reviews_filename data/dev_reviews.txt --model_cat <path_to_model_cat> --model_sent <path_to_model_sent> --model <path_to_model>
 ```
@@ -19,3 +21,7 @@ python inference.py --first_task --second_task --aspect_filename data/dev_pred_a
 [Модель для выделения аспектов по категориям](https://disk.yandex.ru/d/dStzQfoH_33Opw)
 
 [Модель для определения сентимента аспектов](https://disk.yandex.ru/d/O0MOfzkp0ownag)
+
+### Отчет
+
+Отчет находится в [`report.ipynb`](https://github.com/yuliya1324/Aspect_Sent_project/blob/main/report.ipynb)
