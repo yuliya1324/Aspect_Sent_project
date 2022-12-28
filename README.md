@@ -24,4 +24,4 @@ python inference.py --first_task --second_task --aspect_filename data/dev_pred_a
 
 ### Отчет
 
-Отчет находится в [`report.ipynb`](https://github.com/yuliya1324/Aspect_Sent_project/blob/main/report.ipynb)
+Отчет находится в [`report.ipynb`](https://github.com/yuliya1324/Aspect_Sent_project/blob/main/report.ipynb) и в [`Report.ipynb`](https://github.com/yuliya1324/Aspect_Sent_project/blob/main/Report.ipynb)
