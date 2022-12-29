@@ -22,6 +22,8 @@ python inference.py --first_task --second_task --aspect_filename data/dev_pred_a
 
 [Модель для определения сентимента аспектов](https://disk.yandex.ru/d/O0MOfzkp0ownag)
 
+[Папка со всеми моделями](https://drive.google.com/drive/folders/12yh9Z0R9QaDK5YX6ik1BhX1V0Z8otUzn?usp=sharing)
+
 ### Отчет
 
 Отчет находится в [`report.ipynb`](https://github.com/yuliya1324/Aspect_Sent_project/blob/main/report.ipynb) и в [`Report.ipynb`](https://github.com/yuliya1324/Aspect_Sent_project/blob/main/Report.ipynb)
