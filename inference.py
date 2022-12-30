@@ -140,7 +140,7 @@ def inference_aspects(review, model_cat, model_sent, tokenizer, idx, device_1, d
     length = 0
     for span in result:
         word = ' '.join(join_punctuation(span[0]))
-        m = re.search(rer.escape(word), re.escape(text))
+        m = re.search(re.escape(word), text)
         if m:
             s, e = m.span()
             output.append([idx, span[1], word, str(s + length), str(e + length), span[2]])
